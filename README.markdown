@@ -1,0 +1,1 @@
+Following Michael Hartl's Rails Tutorial book - from chapter 3 onwards
