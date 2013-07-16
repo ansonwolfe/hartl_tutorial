@@ -1,1 +1,1 @@
-Following Michael Hartl's Rails Tutorial book - from chapter 3 onwards
+Following Michael Hartl's Rails Tutorial book - from chapter 3 onwards.  This is located in the Hartl folder. 
