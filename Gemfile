@@ -9,6 +9,7 @@ gem 'bootstrap-will_paginate', '0.0.6'
 gem 'jquery-rails', '2.0.2'
 gem 'hirb'
 gem 'bcrypt-ruby', '3.0.1'
+gem 'rails-footnotes', '>= 3.7.9', :group => :development
 
 group :development, :test do
   gem 'sqlite3', '1.3.5'
@@ -39,5 +40,5 @@ group :test do
 end
 
 group :production do
-  gem 'pg', '0.12.2'
+  gem 'pg'
 end
