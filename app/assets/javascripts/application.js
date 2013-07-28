@@ -14,3 +14,8 @@
 //= require jquery_ujs
 //= require bootstrap
 //= require_tree .
+<script>
+  $(document).ready(function(){
+    $('.carousel').carousel();
+  });
+</script>
